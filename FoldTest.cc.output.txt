@@ -1,0 +1,6 @@
+@define int32 main(){
+%k = alloca i32, align 4
+%1 = alloca i32, align 4
+%1 = add i32 2 ,1 
+store i32 , i32* k
+}
